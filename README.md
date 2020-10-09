@@ -19,6 +19,8 @@ I WANT to be able to delete notes I've written before
 
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+<img width="1781" alt="Screen Shot 2020-10-08 at 11 33 46 PM" src="https://user-images.githubusercontent.com/67081309/95551415-98afe580-09bf-11eb-815c-38258e16136a.png">
+
 ## Business Context
 
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
